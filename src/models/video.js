@@ -10,3 +10,7 @@ var Video = Backbone.Model.extend({
   }
 
 });
+
+
+
+// console.log(exampleVideoData);
